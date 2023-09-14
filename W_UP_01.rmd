@@ -71,4 +71,4 @@ If the p-value lower than 0.5 than you reject the hypothesis, because of this we
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 The original questions was is there a difference in the average number of push ups that skill and line players can do in 2 minutes.
-There is a difference, because of the p-value is so small that it was rejected. The p-value is under 0.5 so we reject the hypothesis. The Teams do have a difference in the amount of push ups done. 
+There is a difference, because of the p-value is so small that it was rejected. The p-value is under 0.5, which is 0.000009421 so we reject the null hypothesis, that the teams do not have a difference in push ups done, that is not true. The Teams do have a difference in the amount of push ups done under 2 minutes. 
